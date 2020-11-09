@@ -31,7 +31,7 @@
           <q-item-label 
           	class="row justify-end"
           	caption>
-          	{{ task.dueDate | niceDate }}
+          	{{ task.dueDate }}
           </q-item-label>
           <q-item-label
           	class="row justify-end"
