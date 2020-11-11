@@ -1,6 +1,7 @@
 # Quasar App (maverick-todo)
 
 A Quasar Framework app
+See [example](https://practical-mccarthy-18d746.netlify.app/#/).
 
 ## Install the dependencies
 ```bash
